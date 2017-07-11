@@ -2,7 +2,7 @@
 
 A good looking and easy on eyes theme
 
-### If you want to match your vscode UI with this theme add following lines in your settings:
+**If you want to match your vscode UI with this theme add following lines in your settings:**
 ```json
 {
   "workbench.colorCustomizations": {
