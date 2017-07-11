@@ -1,0 +1,33 @@
+{
+	"name": "material-dark",
+	"displayName": "Material Dark",
+	"description": "Material themes for VS Code",
+	"author": "Roman",
+	"icon": "images/icon.png",
+	"version": "1.0.0",
+	"publisher": "romanrei",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/romanrei/material-dark-vscode.git"
+	},	
+	"keywords": [
+		"material",
+		"dark",
+		"material theme"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Theme - Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material-Dark.tmTheme"
+			}
+		]
+	}
+}
